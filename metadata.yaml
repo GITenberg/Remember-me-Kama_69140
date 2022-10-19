@@ -1,0 +1,39 @@
+_repo: Remember-me-Kama_69140
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Giunta, John
+    aliases:
+    - Giunta
+    - Guinta, John
+    - Giunta, J.
+    birthdate: 1920
+    deathdate: 1970
+    gutenberg_agent_id: '42186'
+    url: http://www.gutenberg.org/2009/agents/42186
+    wikipedia: https://en.wikipedia.org/wiki/John_Giunta
+creator:
+  author:
+    agent_name: Kubilius, Walter
+    birthdate: 1918
+    deathdate: 1993
+    gutenberg_agent_id: '51847'
+    url: http://www.gutenberg.org/2009/agents/51847
+description: ''
+gutenberg_issued: '2022-10-12'
+identifiers:
+  gutenberg: '69140'
+language: en
+pgterms:marc905: 20220604075757kubilius
+pgterms:marc906: '1942'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Fictioneers, Inc.,1942.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Remember me, Kama!
+url: http://www.gutenberg.org/ebooks/69140
