@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '42186'
     url: http://www.gutenberg.org/2009/agents/42186
     wikipedia: https://en.wikipedia.org/wiki/John_Giunta
+covers:
+- cover_type: archival
+  image_path: 69140-h/images/cover.jpg
 creator:
   author:
     agent_name: Kubilius, Walter
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '51847'
     url: http://www.gutenberg.org/2009/agents/51847
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69140#Remember-me-Kama
 gutenberg_issued: '2022-10-12'
 identifiers:
   gutenberg: '69140'
